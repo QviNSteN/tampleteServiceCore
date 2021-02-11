@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Js26PmOaifa6hVjmiUo1Ft5NQXwUb571zFTzQrrSSR1FrIAWAM73pyNG4lXS36o72tRLZ6NCL64zCNavFWk1g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\umarkit1002\\source\\repos\\tampleteService\\PatternService.General\\PatternService.General.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\umarkit1002\\source\\repos\\tampleteService\\FormGenerator.Data\\PatternService.Data.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\umarkit1002\\source\\repos\\tampleteService\\FormGenerator.Data\\PatternService.Data.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

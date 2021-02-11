@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/2If9A8OZpLtI4VS/Hhu0TpxTvyOncRJzfPNhq8GBWEev+uiOazKtpn6S2qG4xaXny3PmI+dkFWOJkEnzKvbA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\umarkit1002\\source\\repos\\tampleteService\\PatternService.BI\\PatternService.BI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\automapper.collection\\7.0.0\\automapper.collection.7.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\automapper.collection.entityframeworkcore\\7.0.1\\automapper.collection.entityframeworkcore.7.0.1.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\automapper.extensions.expressionmapping\\4.0.2\\automapper.extensions.expressionmapping.4.0.2.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\delegatedecompiler\\0.29.1\\delegatedecompiler.0.29.1.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\delegatedecompiler.entityframeworkcore5\\0.29.1\\delegatedecompiler.entityframeworkcore5.0.29.1.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0\\microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\mono.reflection.core\\1.1.1\\mono.reflection.core.1.1.1.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\umarkit1002\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\umarkit1002\\source\\repos\\tampleteService\\FormGenerator.Data\\PatternService.Data.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\umarkit1002\\source\\repos\\tampleteService\\FormGenerator.Data\\PatternService.Data.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\umarkit1002\\source\\repos\\tampleteService\\FormGenerator.General\\PatternService.General.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\umarkit1002\\source\\repos\\tampleteService\\FormGenerator.General\\PatternService.General.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

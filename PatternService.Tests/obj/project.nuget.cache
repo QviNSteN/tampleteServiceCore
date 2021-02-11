@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "r8YFcSxMZ3/YYbMsN9avBdsrjFQYpqLwY13xn7ox36YANHb+N6VAmqV+Tf5ybf6Lra+oRkIH8luJ72su2JwhmA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\umarkit1002\\source\\repos\\tampleteService\\PatternService.Tests\\PatternService.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\umarkit1002\\source\\repos\\tampleteService\\Umarkit.CRM.FormGeneratorService\\PatternService.API.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\umarkit1002\\source\\repos\\tampleteService\\Umarkit.CRM.FormGeneratorService\\PatternService.API.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

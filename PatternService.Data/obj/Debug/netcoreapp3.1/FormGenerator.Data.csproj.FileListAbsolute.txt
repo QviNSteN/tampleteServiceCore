@@ -1,0 +1,9 @@
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Data\bin\Debug\netcoreapp3.1\FormGenerator.Data.deps.json
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Data\bin\Debug\netcoreapp3.1\FormGenerator.Data.dll
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Data\bin\Debug\netcoreapp3.1\FormGenerator.Data.pdb
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Data\obj\Debug\netcoreapp3.1\FormGenerator.Data.csprojAssemblyReference.cache
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Data\obj\Debug\netcoreapp3.1\FormGenerator.Data.AssemblyInfoInputs.cache
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Data\obj\Debug\netcoreapp3.1\FormGenerator.Data.AssemblyInfo.cs
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Data\obj\Debug\netcoreapp3.1\FormGenerator.Data.csproj.CoreCompileInputs.cache
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Data\obj\Debug\netcoreapp3.1\FormGenerator.Data.dll
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Data\obj\Debug\netcoreapp3.1\FormGenerator.Data.pdb

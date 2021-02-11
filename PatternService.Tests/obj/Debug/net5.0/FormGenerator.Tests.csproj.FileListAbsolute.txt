@@ -1,0 +1,5 @@
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Tests\obj\Debug\net5.0\FormGenerator.Tests.csprojAssemblyReference.cache
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Tests\obj\Debug\net5.0\FormGenerator.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Tests\obj\Debug\net5.0\FormGenerator.Tests.AssemblyInfoInputs.cache
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Tests\obj\Debug\net5.0\FormGenerator.Tests.AssemblyInfo.cs
+C:\Users\umarkit1002\source\repos\Umarkit.CRM.FormGeneratorService\FormGenerator.Tests\obj\Debug\net5.0\FormGenerator.Tests.csproj.CoreCompileInputs.cache
